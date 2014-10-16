@@ -1,0 +1,46 @@
+﻿document.selection.Replace "a<184>","a̱",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "a<176>","а°",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+
+document.selection.Replace "l<170>","<170>l",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+
+document.selection.Replace "<170><184>","<170>",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "A<184>","ā̱",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "u<184>","u̱",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "R<184>","ṝ",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "i<184>","í̱",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "aM<170><170>","àM",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "aM<170>","áM",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+
+document.selection.Replace "RR<170>","ṝ",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+
+document.selection.Replace "AM<170><170>","ā̀M",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "AM<170>","ā́M",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "auM<170>","aúM",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "uM<170>","úM",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "aiM<170>","aíM",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "iM<170>","íM",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "RM<170>","ṛ́M",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "aH<170>","áH",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "AH<170>","ā́́H",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "auH<170>","aúH",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "uH<170>","úH",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "aiH<170>","aíH",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "iH<170>","íH",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "a<170><170>","à",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "a<170>","á",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "A<170><170>","ā̀",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "A<170>","ā́",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "i<170><170>","ì",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "i<170>","í",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "I<170><170>","ī̀",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "I<170>","ī́",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "u<170><170>","ù",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "u<170>","ú",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "U<170><170>","ū̀",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "U<170>","ū́",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "e<170><170>","è",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "e<170>","é",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "o<170><170>","ò",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "o<170>","ó",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "R<170><170>","ṝ",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
+document.selection.Replace "R<170>","ṛ́",eeFindNext Or eeFindReplaceCase Or eeReplaceAll
