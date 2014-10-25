@@ -1,0 +1,20 @@
+﻿Sub Arabic2RomanColumn()
+'
+' http://www.planetaexcel.ru/forum/index.php?PAGE_NAME=read&FID=1&TID=60791
+'
+    Dim cc As Range, a
+    Application.ScreenUpdating = False
+    For Each cc In Intersect(Selection.Parent.UsedRange, Selection)
+        If InStr(cc.Value, "-") > 1 Then
+            a = Split(cc.Value, "-")
+            If UBound(a) = 1 Then
+                If IsNumeric(a(0)) Then
+                    If IsNumeric(a(1)) Then
+                        If a(0) < 10 Then
+                            a(0) = Application.Roman(a(0))
+                            a(1) = --a(1)
+                            cc = Join(a, "-")
+                        End If: End If: End If: End If: End If
+    Next
+    Application.ScreenUpdating = True
+End Sub
