@@ -1,0 +1,9 @@
+# SanskritMacros — EmEditor, MS Excel, MS Word Sanskrit macros & scripts
+
+> Macro and script collection for Sanskrit text processing in EmEditor, Excel and Word (transliteration converters, tag extraction).
+
+## Pages
+
+- [SanskritMacros home](https://gasyoun.github.io/SanskritMacros/) — index into the macro library.
+
+Macro sources: https://github.com/gasyoun/SanskritMacros
